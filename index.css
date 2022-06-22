@@ -25,7 +25,9 @@ td img{
     height: 50%;
     text-align: center;
 }
-a:hover{
-    color: black;
+a{
     text-decoration: none;
+}
+a:hover{
+    color: white;
 }
